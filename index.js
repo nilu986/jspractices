@@ -2,7 +2,8 @@
 import './style.css';
 //import './polyfills_arrayMethods.js';
 //import './set_map_week.js';
-import './array_methods.js';
+//import './array_methods.js';
+import './object_related.js';
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
